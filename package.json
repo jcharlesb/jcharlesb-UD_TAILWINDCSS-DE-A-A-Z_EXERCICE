@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jcharlesb/jcharlesb-UD_TAILWINDCSS-DE-A-A-Z_EXERCICE/issues"
   },
-  "homepage": "https://github.com/jcharlesb/jcharlesb-UD_TAILWINDCSS-DE-A-A-Z_EXERCICE#readme"
+  "homepage": "https://github.com/jcharlesb/jcharlesb-UD_TAILWINDCSS-DE-A-A-Z_EXERCICE#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.4"
+  }
 }
